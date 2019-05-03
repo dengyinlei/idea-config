@@ -1,0 +1,42 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Segoe UI Semibold" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="221-233-222-255,,,86-131-150-255,,,132-255-255-255" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="InstalledPluginsSearchHistory" value="M&#10;Terminal&#10;Maven Helper&#10;mark" />
+    <property name="KEYMAP" value="Show In Explorer&#10;implementation&#10;show in ex&#10;show in" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SettingsSearchHistory" value="font&#10;Registry&#10;auto" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="idea" />
+    <property name="TrendingPluginsSearchHistory" value="Background Image Plus&#10;Material Theme UI&#10;material theme plugin&#10;Terminal&#10;.ignore" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.191" value="16" />
+    <property name="file.chooser.recent.files" value="E:/360Downloads/Material_Theme-3.9.3.zip&#10;E:/360Downloads/one-dark-theme-2.2.1.zip&#10;E:/360Downloads/Material Theme/lib/material-theme-jetbrains-3.9.3.jar&#10;E:/360Downloads/one-dark-theme/lib/one-dark-theme-1.1.0.jar&#10;E:/360Downloads/nord-jetbrains.jar&#10;E:/360Downloads/主题/RecognEyes.jar&#10;E:/360Downloads/one-dark-theme/lib/searchableOptions-2.2.1.jar&#10;E:/360Downloads/one-dark-theme/lib/one-dark-theme-2.2.1.jar&#10;E:/360Downloads/one-dark-theme/lib&#10;E:/360Downloads/主题/Monokai Sublime Text 3.jar&#10;E:/360Downloads/主题/Sublime Text 2.jar&#10;E:/360Downloads/主题/Roboticket.jar&#10;E:/360Downloads/主题/Obsidian.jar&#10;E:/360Downloads/主题/Oblivion.jar&#10;C:/Users/Administrator/Desktop/博文壁纸/Eye.jpg&#10;E:/360Downloads/Tamacun.jar&#10;E:/360Downloads/Relax Your Eyes Green.jar&#10;E:/360Downloads/Classic Eclipse.jar&#10;E:/360Downloads/1433175136.jar&#10;D:/Java/apache-tomcat-7.0.82&#10;D:/JavaCode/simple&#10;D:/Java/apache-maven-3.5.2&#10;D:/Java/jdk" />
+    <property name="file.gist.reindex.count" value="12" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="idea.background.editor" value="C:\Users\Administrator\Desktop\博文壁纸\Eye.jpg,15,scale,center" />
+    <property name="idea.background.frame" value="C:\Users\Administrator\Desktop\博文壁纸\Eye.jpg,15,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2019.1-2" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="lastTip" value="11" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\Users\Administrator\Desktop\博文壁纸\Eye.jpg" />
+    <property name="plugins.preselection.path" value="E:/360Downloads" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.3.3333" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>

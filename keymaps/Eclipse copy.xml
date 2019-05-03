@@ -1,0 +1,16 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+</keymap>

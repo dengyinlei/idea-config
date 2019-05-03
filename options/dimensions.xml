@@ -1,0 +1,29 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="194" />
+    <location key="new project wizard.0.0.1920.1080" x="601" y="42" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="652" y="346" />
+    <location key="SettingsEditor.0.0.1920.1080" x="432" y="232" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="551" y="180" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="623" y="225" />
+    <location key="Registry.0.0.1920.1080" x="531" y="181" />
+    <location key="StructurePopup.0.0.1920.1080" x="681" y="250" />
+    <location key="IDE.errors.dialog.0.0.1920.1080" x="540" y="253" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="709" y="388" />
+    <location key="org.intellij.images.editor.actions.BackgroundImageDialog.0.0.1920.1080" x="858" y="545" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="1121" y="561" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="526" y="158" />
+    <location key="#Inspections.0.0.1920.1080" x="552" y="177" />
+    <location key="#Intentions.0.0.1920.1080" x="552" y="177" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="187" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="187" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="187" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="187" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="906" height="678" />
+    <size key="StructurePopup.0.0.1920.1080" width="564" height="524" />
+    <size key="org.intellij.images.editor.actions.BackgroundImageDialog.0.0.1920.1080" width="799" height="472" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1241" height="718" />
+    <size key="#Inspections.0.0.1920.1080" width="1037" height="685" />
+  </component>
+</application>

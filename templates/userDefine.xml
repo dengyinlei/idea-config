@@ -1,0 +1,18 @@
+<templateSet group="userDefine">
+  <template name="*" value="*&#10; * @description : &#10; * @author : Denley&#10; * @date : $date$ $time$&#10; * @Param : $Param$&#10; * @return : $return$&#10; **/" description="add Comments for method" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="Param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="c" value="*&#10; * @description : &#10; * @author : Denley&#10; * @date : $date$ $time$&#10; **/" description="add comments for Class" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
